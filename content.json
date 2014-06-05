@@ -54,8 +54,15 @@
                     "user": "test@skryv.com",
                     "created": "2014-06-05T18:54:21.922Z",
                     "on": "insulinedosis_iedag"
+                },
+                {
+                    "message": "Ok, is toegevoegd.",
+                    "user": "test@skryv.com",
+                    "created": "2014-06-05T18:55:09.824Z",
+                    "on": "insulinedosis_iedag"
                 }
-            ]
+            ],
+            "insulinedosis_iedag": 20
         },
         "screenings": {
             "coeliakie": {
